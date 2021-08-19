@@ -1,7 +1,5 @@
 基于 [飞鹅云开放平台](http://help.feieyun.com/document.php) 的 PHP 接口组件
 
-[![Latest Stable Version](http://poser.pugx.org/mhzwj/feieyun/v)](https://packagist.org/packages/mhzwj/feieyun) [![Total Downloads](http://poser.pugx.org/mhzwj/feieyun/downloads)](https://packagist.org/packages/mhzwj/feieyun) [![Latest Unstable Version](http://poser.pugx.org/mhzwj/feieyun/v/unstable)](https://packagist.org/packages/mhzwj/feieyun) [![License](http://poser.pugx.org/mhzwj/feieyun/license)](https://packagist.org/packages/mhzwj/feieyun)
-
 ## 安装
 
 ~~~~
